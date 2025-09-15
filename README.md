@@ -24,6 +24,9 @@ Control the car’s movement (forward, backward, left, right) and horn using a m
 - HC-05: TX → RX, RX → TX (Arduino)
 
 
+## 💻 Arduino Code
+Complete code is in `Bluetooth_RC_Car.ino`
+
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
